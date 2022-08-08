@@ -1,7 +1,8 @@
-package br.com.przucato.repositoriesapp
+package br.com.przucato.repositoriesapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.przucato.repositoriesapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
